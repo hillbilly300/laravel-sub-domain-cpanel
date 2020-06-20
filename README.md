@@ -16,7 +16,7 @@ Route::domain('subdoamin.example.com')->group(function () {
     Route::get('/', function(){
         dd("Reserved For subdoamin.example.com Site") ;
     });
-}
+  }
 );
 
 ```
