@@ -28,8 +28,7 @@ subdoamin.example.com
 ```
 
 and you will get
-
-  Reserved For 
+ 
 ```php
-  subdoamin.example.com Site
+Reserved For subdoamin.example.com Site
 ```
