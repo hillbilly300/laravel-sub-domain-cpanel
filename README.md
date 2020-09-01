@@ -1,5 +1,5 @@
 # laravel-sub-domain-cpanel
-this describes how to configure subdomain for laravel project.
+this guide describes how to configure subdomain for laravel project.
 
 Using `example.com`
 if you own `example.com` and want to create `subdoamin.example.com` and handle it with laravel.
